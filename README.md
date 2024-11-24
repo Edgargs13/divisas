@@ -1,0 +1,80 @@
+{
+  "USD": {
+    "code": "USD",
+    "codein": "EUR",
+    "name": "Dólar Americano/Euro",
+    "high": "0.9614",
+    "low": "0.9475",
+    "varBid": "-0.0023",
+    "pctChange": "-0.24",
+    "bid": "0.9553",
+    "ask": "0.9558",
+    "timestamp": "1732319998",
+    "create_date": "2024-11-22 20:59:58"
+  },
+  "CAD": {
+    "code": "CAD",
+    "codein": "EUR",
+    "name": "Dólar Canadiense/Euro",
+    "high": "0.6837",
+    "low": "0.678",
+    "varBid": "-0.0019",
+    "pctChange": "-0.28",
+    "bid": "0.6798",
+    "ask": "0.6812",
+    "timestamp": "1732312768",
+    "create_date": "2024-11-22 18:59:28"
+  },
+  "GBP": {
+    "code": "GBP",
+    "codein": "EUR",
+    "name": "Libra Esterlina/Euro",
+    "high": "1.2115",
+    "low": "1.1954",
+    "varBid": "-0.0083",
+    "pctChange": "-0.69",
+    "bid": "1.1998",
+    "ask": "1.2025",
+    "timestamp": "1732312775",
+    "create_date": "2024-11-22 18:59:35"
+  },
+  "ARS": {
+    "code": "ARS",
+    "codein": "EUR",
+    "name": "Peso Argentino/Euro",
+    "high": "0.00096",
+    "low": "0.00094",
+    "varBid": "0",
+    "pctChange": "0",
+    "bid": "0.00095",
+    "ask": "0.00096",
+    "timestamp": "1732319998",
+    "create_date": "2024-11-22 20:59:58"
+  },
+  "BTC": {
+    "code": "BTC",
+    "codein": "EUR",
+    "name": "Bitcoin/Euro",
+    "high": "94765",
+    "low": "92825",
+    "varBid": "-1543",
+    "pctChange": "-1.61",
+    "bid": "93127",
+    "ask": "93347",
+    "timestamp": "1732462148",
+    "create_date": "2024-11-24 12:29:08"
+  },
+  "EUR": {
+    "code": "EUR",
+    "codein": "EUR",
+    "name": "Euro/Euro",
+    "high": "1.0000",
+    "low": "1.0000",
+    "varBid": "0.0000",
+    "pctChange": "0.00",
+    "bid": "1.0000",
+    "ask": "1.0000",
+    "timestamp": "1732312770",
+    "create_date": "2024-11-22 18:59:30"
+  }
+}
